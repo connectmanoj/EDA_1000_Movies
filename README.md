@@ -1,5 +1,5 @@
 ## Exploratory Data Analysis on 1000 Movies
-  - This project was part of my Data Visualization learning</br>
+  - This project was part of my Data Visualization and EDA learning</br>
   - A hypothetical problem was considered where a movie company wanted to understand the movie features and growth of the industry for a new profitable movie production</br>
   - The data of 1000 movies was analysed to find the insights by studying the relation of different factors among each other</br>
   - The explanation for each file in the project is as follows:</br>
